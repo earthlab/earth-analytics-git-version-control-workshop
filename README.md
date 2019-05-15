@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/186890040.svg)](https://zenodo.org/badge/latestdoi/186890040)
 
-# Earth Analytics Workshop Material - Introduction to Version Control and Git
+# Earth Analytics Workshop Materials - Introduction to Version Control and Git
 
 This workshop on Introduction to Version Control and Git is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
 
