@@ -1,0 +1,1 @@
+# earth-analytics-git-version-control-workshop
